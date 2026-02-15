@@ -1,4 +1,4 @@
-# Diabetes Prediction using Machine Learning
+# Diabetes Prediction
 
 This project focuses on predicting whether a person has diabetes using Machine Learning techniques.
 
