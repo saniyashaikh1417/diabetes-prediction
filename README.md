@@ -1,63 +1,68 @@
-🩺 Diabetes Prediction 
+# 🩺 Diabetes Prediction using Machine Learning
 
-This project focuses on predicting whether a person has diabetes using Machine Learning techniques based on medical attributes.
+This project focuses on predicting whether a person is diabetic using Machine Learning techniques based on medical attributes.
 
-📌 Problem Statement
+---
 
-Diabetes is a serious and growing health concern worldwide. Early detection can help in timely treatment and prevention of complications. The goal of this project is to build a machine learning model that accurately predicts whether a person is diabetic based on health-related features.
+## 📌 Problem Statement
 
-📊 Dataset
+Diabetes is a serious and growing health concern worldwide.  
+The goal of this project is to build a machine learning model that accurately predicts whether a person is diabetic.
 
-Name: Pima Indians Diabetes Dataset
-Source: Kaggle
-Link: https://www.kaggle.com/code/saniyashaikh1400/diabetes-prediction
+---
 
-Description:
-The dataset contains medical attributes such as glucose level, BMI, insulin, age, and blood pressure. The target variable indicates whether a person is diabetic (1) or non-diabetic (0).
+## 📊 Dataset
 
-⚙️ Technologies Used
+• **Name:** Pima Indians Diabetes Dataset  
+• **Source:** Kaggle  
+• **Link:** https://www.kaggle.com/code/saniyashaikh1400/diabetes-prediction  
 
-Python
-Pandas, NumPy
-Matplotlib, Seaborn
-Scikit-learn
+• **Description:**  
+The dataset contains medical attributes such as Glucose, BMI, Age, Insulin, and Blood Pressure.  
+The target variable indicates whether a person is diabetic (1) or non-diabetic (0).
 
-🧠 Machine Learning Algorithm
+---
 
-Logistic Regression
+## ⚙️ Technologies Used
 
-🔑 Key Concepts
+• Python  
+• NumPy  
+• Pandas  
+• Matplotlib  
+• Seaborn  
+• Scikit-learn  
 
-Exploratory Data Analysis (EDA)
-Feature scaling
-Train-test split
-Classification modeling
-Model evaluation using Accuracy, Precision, Recall, F1-score, and Confusion Matrix
+---
 
-📈 Results
+## 🧠 Machine Learning Algorithm
 
-Achieved good classification accuracy using Logistic Regression.
-The confusion matrix and classification report were used to evaluate model performance.
-The model successfully distinguishes between diabetic and non-diabetic cases.
+• Logistic Regression  
 
-🚀 How to Run the Project
+---
 
-Option 1: Run on Kaggle (Recommended)
-Open the Kaggle Notebook link and click Run All to execute all cells.
+## 📈 Results
 
-Option 2: Run Locally
-Clone the repository
-Install required libraries (NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn)
-Open the .ipynb file in Jupyter Notebook
-Run all cells
+The Logistic Regression model achieved good classification accuracy.  
+Performance was evaluated using Precision, Recall, F1-score, and Confusion Matrix.
 
-📌 Future Improvements
+---
 
-Compare with advanced models like Random Forest and XGBoost
-Hyperparameter tuning for improved accuracy
-Deploy as a web application using Streamlit
+## 🚀 How to Run the Project
 
-👩‍💻 Author
+### 🌐 Run via Kaggle
+1. Open the Kaggle Notebook link.  
+2. Click **Run All** to execute all cells.  
 
-Saniya Shaikh
-Data Science – Ajeenkya D Y Patil School of Engineering
+### 💻 Run Locally
+1. Clone the repository.  
+2. Install required libraries.  
+3. Open the `.ipynb` file in Jupyter Notebook.  
+4. Run all cells.  
+
+---
+
+## 👩‍💻 Author
+
+**Saniya Shaikh**  
+Data Science Student  
+Ajeenkya D Y Patil School of Engineering  
