@@ -64,5 +64,4 @@ Performance was evaluated using Precision, Recall, F1-score, and Confusion Matri
 ## 👩‍💻 Author
 
 **Saniya Shaikh**  
-Data Science Student  
-Ajeenkya D Y Patil School of Engineering  
+3rd Year Engineering – AI & DS
